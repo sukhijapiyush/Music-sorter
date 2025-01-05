@@ -1,0 +1,6 @@
+phidata
+pydantic
+pandas
+tqdm
+platform
+winsound; sys_platform == 'win32'

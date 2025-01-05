@@ -1,0 +1,10 @@
+os
+shutil
+pydub
+whisper
+concurrent.futures
+pandas
+tqdm
+torch
+platform
+winsound; sys_platform == 'win32'
