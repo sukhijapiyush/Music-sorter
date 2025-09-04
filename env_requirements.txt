@@ -13,7 +13,7 @@ email_validator==2.2.0
 fastapi==0.115.6
 fastapi-cli==0.0.7
 flash==1.0.3
-Flask==3.1.0
+Flask==3.1.1
 gitdb==4.0.12
 GitPython==3.1.44
 googlesearch-python==1.2.5
